@@ -82,6 +82,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
@@ -108,4 +109,12 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0355-design-twitter) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
