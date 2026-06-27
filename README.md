@@ -100,6 +100,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
@@ -126,4 +127,8 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
