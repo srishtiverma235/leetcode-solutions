@@ -110,6 +110,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0355-design-twitter) |
 ## Heap (Priority Queue)
 |  |
@@ -131,4 +132,5 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
