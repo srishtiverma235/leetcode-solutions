@@ -87,6 +87,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -122,6 +123,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0001-two-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -133,4 +135,9 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
