@@ -124,6 +124,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -136,8 +137,10 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
