@@ -87,6 +87,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -104,10 +105,12 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Design
 |  |
 | ------- |
