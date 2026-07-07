@@ -97,6 +97,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
@@ -124,6 +125,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -152,4 +154,8 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
