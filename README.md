@@ -100,6 +100,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0011-container-with-most-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -130,6 +131,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -166,4 +168,8 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
