@@ -98,6 +98,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
@@ -126,6 +127,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0001-two-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -141,6 +143,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -148,6 +151,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Math
@@ -158,4 +162,8 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
