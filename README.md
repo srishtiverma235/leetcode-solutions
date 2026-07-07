@@ -137,6 +137,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
@@ -174,4 +175,5 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
