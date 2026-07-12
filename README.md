@@ -107,6 +107,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -179,6 +180,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
@@ -196,6 +198,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0046-permutations) |
