@@ -209,4 +209,20 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0078-subsets](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
