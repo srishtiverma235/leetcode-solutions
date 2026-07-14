@@ -109,6 +109,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -139,6 +140,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -195,6 +197,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
@@ -203,6 +206,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0040-combination-sum-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -217,6 +221,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
