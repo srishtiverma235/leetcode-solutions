@@ -138,6 +138,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
@@ -154,6 +155,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Stack
