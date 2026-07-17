@@ -222,6 +222,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,4 +244,9 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
