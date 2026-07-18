@@ -177,6 +177,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +187,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0022-generate-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,4 +251,12 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
