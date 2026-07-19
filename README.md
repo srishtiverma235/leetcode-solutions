@@ -176,6 +176,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -256,6 +257,7 @@ This repository serves as a personal archive of solved problems and a resource f
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
