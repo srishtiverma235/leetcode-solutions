@@ -151,6 +151,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +206,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
+| [0994-rotting-oranges](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,6 +244,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0100-same-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
