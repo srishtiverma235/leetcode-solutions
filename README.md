@@ -109,6 +109,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0020-valid-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -139,6 +140,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0046-permutations](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
@@ -267,4 +269,8 @@ This repository serves as a personal archive of solved problems and a resource f
 | ------- |
 | [0070-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
