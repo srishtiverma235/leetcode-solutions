@@ -232,6 +232,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0110-balanced-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -242,6 +243,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0110-balanced-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0110-balanced-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -276,4 +279,12 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0068-text-justification) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
