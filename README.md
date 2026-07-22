@@ -228,6 +228,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
@@ -250,6 +251,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -257,6 +259,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
