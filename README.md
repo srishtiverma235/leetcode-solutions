@@ -240,6 +240,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +263,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0199-binary-tree-right-side-view](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +277,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0543-diameter-of-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
