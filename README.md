@@ -159,6 +159,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Sorting
@@ -203,6 +204,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0070-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
