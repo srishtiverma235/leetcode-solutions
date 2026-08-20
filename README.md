@@ -246,6 +246,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0078-subsets](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -345,6 +346,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## DP on Trees
 |  |
 | ------- |
