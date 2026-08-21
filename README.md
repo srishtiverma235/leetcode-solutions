@@ -355,4 +355,8 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/srishtiverma235/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
