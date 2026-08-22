@@ -161,6 +161,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0198-house-robber) |
@@ -215,6 +216,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0070-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
