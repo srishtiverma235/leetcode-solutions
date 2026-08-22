@@ -165,6 +165,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0704-binary-search) |
@@ -215,6 +216,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0091-decode-ways](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -297,6 +299,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0199-binary-tree-right-side-view](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -364,4 +367,12 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
