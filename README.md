@@ -85,6 +85,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0036-valid-sudoku](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -119,6 +120,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0079-word-search](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -160,6 +162,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0090-subsets-ii](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -216,6 +219,7 @@ This repository serves as a personal archive of solved problems and a resource f
 | [0070-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
@@ -339,6 +343,7 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -377,4 +382,12 @@ This repository serves as a personal archive of solved problems and a resource f
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/srishtiverma235/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
